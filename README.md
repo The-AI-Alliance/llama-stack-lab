@@ -1,4 +1,4 @@
-# Open-Agent-Lab
+# Open Agent Lab
 
 ## Navigating the AI Alliance
 
